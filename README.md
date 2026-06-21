@@ -1,7 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Olayemi%20Michael&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Robotics%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Mechatronics%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Olayemi Michael" />
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F36715711%3Fv%3D4&mask=circle&w=200&h=200&fit=cover" width="180" alt="Olayemi Michael" />
+
+<h1>Olayemi Michael</h1>
+
+<p><b>AI &amp; Robotics Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Full-Stack Developer&nbsp;&nbsp;·&nbsp;&nbsp;Mechatronics Engineer</b></p>
 
 <a href="https://github.com/MIYUPPIE">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&height=50&lines=Building+intelligent+systems+end-to-end;AI+%2B+Robotics+%2B+Full-Stack+Software;Founder+%40+Okhub+Technology;Shipping+from+Ibadan%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
