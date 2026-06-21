@@ -159,7 +159,7 @@ I build intelligent systems across the full stack, from the silicon up. My work 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MIYUPPIE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=MIYUPPIE&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYUPPIE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYUPPIE&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIYUPPIE&theme=tokyo-night&hide_border=true&area=true&color=70a5fd&line=bf91f3&point=ffffff" alt="Activity graph" width="95%" />
 
