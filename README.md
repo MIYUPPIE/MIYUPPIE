@@ -5,7 +5,7 @@
 
 <h1>Olayemi Michael</h1>
 
-<p><b>AI &amp; Robotics Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Full-Stack Developer&nbsp;&nbsp;·&nbsp;&nbsp;Mechatronics Engineer</b></p>
+<p style="color:white"><b>AI &amp; Robotics Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Full-Stack Developer&nbsp;&nbsp;·&nbsp;&nbsp;Mechatronics Engineer</b></p>
 
 <a href="https://github.com/MIYUPPIE">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&height=50&lines=Building+intelligent+systems+end-to-end;AI+%2B+Robotics+%2B+Full-Stack+Software;Okhub+Technology;Ibadan%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC" alt="Typing SVG" />
