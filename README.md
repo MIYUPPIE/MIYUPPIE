@@ -140,13 +140,12 @@ I build intelligent systems across the full stack, from the silicon up. My work 
   <a href="https://github.com/MIYUPPIE/ojanow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIYUPPIE&repo=ojanow&theme=tokyonight&hide_border=true" alt="ojanow" />
   </a>
-  <p><b>OjaNowt</b> — Market Explorer is a web application that allows users to explore various markets and shops within a city.</p>
+  <p><b>SUF Tax services</b> </p>
 </td>
 <td width="50%">
-  <a href="https://github.com/MIYUPPIE/weddingmobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIYUPPIE&repo=weddingmobile&theme=tokyonight&hide_border=true" alt="weddingmobile" />
+  <a href="https://github.com/MIYUPPIE/suf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIYUPPIE&repo=suf&theme=tokyonight&hide_border=true" alt="weddingmobile" />
   </a>
-  <p><b> The application </b> — has features interactive maps and 3D models to enhance the user experience.</p>
 </td>
 </tr>
 </table>
