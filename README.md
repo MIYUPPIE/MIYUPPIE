@@ -135,6 +135,20 @@ I build intelligent systems across the full stack, from the silicon up. My work 
   <p><b>Wedding Mobile</b> — A TypeScript mobile application built for planning and managing weddings.</p>
 </td>
 </tr>
+  <tr>
+<td width="50%">
+  <a href="https://github.com/MIYUPPIE/ojanow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIYUPPIE&repo=ojanow&theme=tokyonight&hide_border=true" alt="ojanow" />
+  </a>
+  <p><b>OjaNowt</b> — Market Explorer is a web application that allows users to explore various markets and shops within a city.</p>
+</td>
+<td width="50%">
+  <a href="https://github.com/MIYUPPIE/weddingmobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIYUPPIE&repo=weddingmobile&theme=tokyonight&hide_border=true" alt="weddingmobile" />
+  </a>
+  <p><b> The application </b> — has features interactive maps and 3D models to enhance the user experience.</p>
+</td>
+</tr>
 </table>
 
 <!-- ====================== GITHUB ANALYTICS ====================== -->
